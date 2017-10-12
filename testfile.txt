@@ -1,4 +1,7 @@
 sdvsdsdvsdvsdv
 dfgmlfgmgkmelrg
+<<<<<<< HEAD
 
-I changed it l
+sup
+=======
+>>>>>>> Niels
