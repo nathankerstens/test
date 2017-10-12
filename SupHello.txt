@@ -1,10 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+Sup Fuckers
+=======
+Pastrami snickers
+>>>>>>> Ytest
+=======
 Pastrami snickers
 =======
 Sup Fuckers
 >>>>>>> HolyArc
+<<<<<<< HEAD
 
 
 Happy cow
 
 Salame mit pastrame
+=======
+>>>>>>> Ytest
+>>>>>>> HolyArc
