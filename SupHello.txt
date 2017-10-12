@@ -9,6 +9,12 @@ Pastrami snickers
 =======
 Sup Fuckers
 >>>>>>> HolyArc
+<<<<<<< HEAD
+>>>>>>> Ytest
+=======
+
+
 Happy cow
 
+Salame mit pastrame
 >>>>>>> Ytest
