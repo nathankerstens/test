@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sup Fuckers
 =======
 Pastrami snickers
+>>>>>>> Ytest
+=======
+Pastrami snickers
+=======
+Sup Fuckers
+>>>>>>> HolyArc
 >>>>>>> Ytest
