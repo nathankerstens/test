@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pastrami snickers
+=======
+Sup Fuckers
+>>>>>>> HolyArc
