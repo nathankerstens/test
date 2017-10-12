@@ -1,4 +1,7 @@
 sdvsdsdvsdvsdv
 dfgmlfgmgkmelrg
+<<<<<<< HEAD
 
 sup
+=======
+>>>>>>> Niels
